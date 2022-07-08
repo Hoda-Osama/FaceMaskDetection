@@ -1,0 +1,21 @@
+Using Complete Dataset with Random Forest Classifier and Smoothed Images:
+
+Accuracy = 0.894869
+
+--------------------------------------------------------------------------------
+
+Confusion Matrix = array([[543,  40],
+       [ 44, 172]], dtype=int64)
+
+--------------------------------------------------------------------------------
+
+Classification Report:
+
+              precision    recall  f1-score   support
+
+           0       0.93      0.93      0.93       583
+           1       0.81      0.80      0.80       216
+
+    accuracy                           0.89       799
+   macro avg       0.87      0.86      0.87       799
+weighted avg       0.89      0.89      0.89       799

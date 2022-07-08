@@ -1,0 +1,21 @@
+Using Complete Dataset with Random Forest Classifier and 60% Testing Data:
+
+Accuracy = 0.891858
+
+--------------------------------------------------------------------------------
+
+Confusion Matrix = array([[1604,  100],
+       [ 159,  532]], dtype=int64)
+
+--------------------------------------------------------------------------------
+
+Classification Report:
+
+              precision    recall  f1-score   support
+
+           0       0.91      0.94      0.93      1704
+           1       0.84      0.77      0.80       691
+
+    accuracy                           0.89      2395
+   macro avg       0.88      0.86      0.86      2395
+weighted avg       0.89      0.89      0.89      2395
